@@ -4,7 +4,9 @@ public class Main {
         System.out.println("cheking lan 2");
         int a  = 1;
         int b = 5;
-        if ( a> 0)
+
+        if(b > a)
+
         System.out.println("Ket qua a + b = " +(a+b));
     }
 }
