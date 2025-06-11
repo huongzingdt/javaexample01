@@ -4,6 +4,6 @@ public class Main {
         System.out.println("cheking lan 2");
         int a  = 1;
         int b = 5;
-        System.out.println(a+b);
+        System.out.println("Ket qua a + b = " +(a+b));
     }
 }
