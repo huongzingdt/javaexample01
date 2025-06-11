@@ -8,5 +8,6 @@ public class Main {
         if(b > a)
 
         System.out.println("Ket qua a + b = " +(a+b));
+        System.out.println("DONE");
     }
 }
